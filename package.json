@@ -27,7 +27,7 @@
     "ng2-image-hover-zoom": "^1.0.2",
     "ng2-zoomable": "^0.1.1",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.19"
+    "zone.js": "^0.13.0"
   },
   "devDependencies": {
     "@angular/cli": "1.6.7",
